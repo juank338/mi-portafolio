@@ -1,84 +1,73 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi Portafolio | Aprendiz ADSO</title>
-  <link rel="stylesheet" href="css/styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Portafolio - ADSO</title>
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+    <header>
+        <span class="logo">&lt;MiPortafolio /&gt;</span>
+        <nav>
+            <ul>
+                <li><a href="#sobre-mi">Sobre mí</a></li>
+                <li><a href="#proyectos">Proyectos</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
 
-  <header class="hero">
-    <nav class="nav">
-      <span class="logo">&lt;MiPortafolio /&gt;</span>
-      <ul>
-        <li><a href="#sobre-mi">Sobre mí</a></li>
-        <li><a href="#proyectos">Proyectos</a></li>
-        <li><a href="#contacto">Contacto</a></li>
-      </ul>
-    </nav>
-    <div class="hero-texto">
-      <p class="saludo">Hola, soy</p>
-      <h1>Juan Camilo Giraldo Clavijo</h1>
-      <p class="rol">Aprendiz de Análisis y Desarrollo de Software · SENA CDITI</p>
-    </div>
-  </header>
+    <main>
+        <section class="hero">
+            <div class="hero-texto">
+                <p class="saludo">Hola, soy</p>
+                <h1>Jairo Giraldo Clavijo</h1>
+                <p>Aprendiz de Análisis y Desarrollo de Software - SENA CDITI</p>
+            </div>
+        </section>
 
-  <main>
+        <section id="sobre-mi" class="seccion">
+            <h2>Sobre mí</h2>
+            <p>Soy aprendiz del programa análisis y desarrollo de software en SENA. Me entusiasma enfrentarme a diferentes desafíos y diferentes metodologías de trabajo.</p>
+        </section>
 
-    <!-- =========================================================
-         PARTE B (guiada) — Paso 1
-         TODO: Reemplaza el párrafo de ejemplo con 3 o 4 líneas
-         sobre ti: quién eres, qué te gusta de programar y qué
-         quieres aprender. Cambia también "Tu Nombre Aquí" arriba.
-         ========================================================= -->
-    <section id="sobre-mi" class="seccion">
-      <h2>Sobre mí</h2>
-      <p>Soy un aprendiz del programa analisis y desarrollo de software en SENA. me entusiasma enfrentearme a diferentes desafios y diferentes metodologias de trabajo. </p>
-    </section>
+        <section id="proyectos" class="seccion">
+            <h2>Proyectos</h2>
+            <div class="grid">
+                <article class="tarjeta">
+                    <h3>Proyecto 1: Mi Portafolio Web</h3>
+                    <p>Sitio web personal desarrollado con HTML y CSS para presentar mis proyectos de software.</p>
+                    <ul class="etiquetas">
+                        <li>HTML</li>
+                        <li>CSS</li>
+                    </ul>
+                </article>
+                <article class="tarjeta">
+                    <h3>Proyecto 2: Sistema de Inventario</h3>
+                    <p>Aplicación para el control de stock y productos desarrollada como práctica de lógica.</p>
+                    <ul class="etiquetas">
+                        <li>JavaScript</li>
+                    </ul>
+                </article>
+                <article class="tarjeta">
+                    <h3>Proyecto 3: Catálogo Interactivo</h3>
+                    <p>Interfaz dinámica y responsiva creada para la visualización de productos y servicios.</p>
+                    <ul class="etiquetas">
+                        <li>HTML</li>
+                        <li>CSS</li>
+                    </ul>
+                </article>
+            </div>
+        </section>
 
-    <!-- =========================================================
-         RETO (calificable)
-         TODO: Agrega 3 tarjetas <article class="tarjeta"> con
-         proyectos o ejercicios que hayas hecho en el programa.
-         Cada tarjeta debe tener: <h3> con el nombre, un <p> con
-         la descripción y una lista <ul class="etiquetas"> con las
-         tecnologías usadas. Abajo tienes una tarjeta de ejemplo:
-         reemplázala por las tuyas.
-         ========================================================= -->
-    <section id="proyectos" class="seccion">
-      <h2>Proyectos</h2>
-      <div class="grid">
-        <article class="tarjeta">
-          <h3>TODO: Proyecto de ejemplo</h3>
-          <p>Descripción corta de lo que hace el proyecto.</p>
-          <ul class="etiquetas">
-            <li>HTML</li>
-            <li>CSS</li>
-          </ul>
-        </article>
-      </div>
-    </section>
-
-    <!-- =========================================================
-         PARTE B (guiada) — Paso 2
-         TODO: Agrega tu correo y el enlace a tu perfil de GitHub
-         en la lista de contacto.
-         ========================================================= -->
-    <section id="contacto" class="seccion">
-      <h2>Contacto</h2>
-      <ul class="contacto">
-        <li>jucagir@gmail.com</li>
-        <li>https://github.com/juank338/mi-portafolio</li>
-      </ul>
-    </section>
-
-  </main>
-
-  <footer class="footer">
-    <p>Hecho con HTML, CSS y Git · <span id="anio"></span></p>
-  </footer>
-
-  <script src="js/main.js"></script>
+        <section id="contacto" class="seccion">
+            <h2>Contacto</h2>
+            <ul class="contacto-lista">
+                <li>Correo: jucagir@gmail.com</li>
+                <li>GitHub: https://github.com/juank338/mi-portafolio</li>
+            </ul>
+        </section>
+    </main>
 </body>
 </html>
