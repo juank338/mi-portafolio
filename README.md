@@ -10,10 +10,15 @@ Estudiante y aprendiz enfocado en el desarrollo de software, maquetación web y 
 - **Sistema de Inventario:** Proyecto enfocado en lógica y gestión de datos.
 - **Catálogo Interactivo:** Interfaz de usuario dinámica.
 
+## Tecnologías
+- HTML5
+- CSS3
+- JavaScript
+- Git y GitHub
+
 ## Contacto
-- **Correo:** jucagir@gmail.com
-- **GitHub:** https://github.com/juank338/mi-portafolio
+- **Correo:** [jucagir@gmail.com](mailto:jucagir@gmail.com)
+- **GitHub:** [Perfil de GitHub](https://github.com/juank338/mi-portafolio)
 
 ```bash
-# Comando para ejecutar en local
 npm start
