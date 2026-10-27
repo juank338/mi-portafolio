@@ -1,8 +1,8 @@
 ---
 name: Reporte de bug
-about: TODO - escribe en una frase para qué sirve esta plantilla
+about: ineficiencia en la navegabilidad de la pagina
 title: "BUG · "
-labels: TODO
+labels: bug
 assignees: ''
 ---
 
