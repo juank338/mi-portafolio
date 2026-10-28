@@ -3,71 +3,82 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Portafolio - ADSO</title>
+    <title>Mi Portafolio</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+
+    <!-- HU-01: Menú de navegación fijo -->
+    <nav>
+        <ul>
+            <li><a href="#sobre-mi">Sobre mí</a></li>
+            <li><a href="#habilidades">Habilidades</a></li>
+            <li><a href="#proyectos">Proyectos</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
     <header>
-        <span class="logo">&lt;MiPortafolio /&gt;</span>
-        <nav>
-            <ul>
-                <li><a href="#sobre-mi">Sobre mí</a></li>
-                <li><a href="#proyectos">Proyectos</a></li>
-                <li><a href="#contacto">Contacto</a></li>
-            </ul>
-        </nav>
+        <h1>Bienvenido a mi Portafolio</h1>
     </header>
 
     <main>
-        <section class="hero">
-            <div class="hero-texto">
-                <p class="saludo">Hola, soy</p>
-                <h1>JUan Camilo Giraldo Clavijo</h1>
-                <p>Aprendiz de Análisis y Desarrollo de Software - SENA CDITI</p>
-            </div>
-        </section>
-
-        <section id="sobre-mi" class="seccion">
+        <section id="sobre-mi">
             <h2>Sobre mí</h2>
-            <p>Soy aprendiz del programa análisis y desarrollo de software en SENA. Me entusiasma enfrentarme a diferentes desafíos y diferentes metodologías de trabajo.</p>
+            <p>Hola, soy un aprendiz apasionado por el desarrollo de software.</p>
         </section>
 
-        <section id="proyectos" class="seccion">
-            <h2>Proyectos</h2>
-            <div class="grid">
-                <article class="tarjeta">
-                    <h3>Proyecto 1: Mi Portafolio Web</h3>
-                    <p>Sitio web personal desarrollado con HTML y CSS para presentar mis proyectos de software.</p>
-                    <ul class="etiquetas">
-                        <li>HTML</li>
-                        <li>CSS</li>
-                    </ul>
-                </article>
-                <article class="tarjeta">
-                    <h3>Proyecto 2: Sistema de Inventario</h3>
-                    <p>Aplicación para el control de stock y productos desarrollada como práctica de lógica.</p>
-                    <ul class="etiquetas">
-                        <li>JavaScript</li>
-                    </ul>
-                </article>
-                <article class="tarjeta">
-                    <h3>Proyecto 3: Catálogo Interactivo</h3>
-                    <p>Interfaz dinámica y responsiva creada para la visualización de productos y servicios.</p>
-                    <ul class="etiquetas">
-                        <li>HTML</li>
-                        <li>CSS</li>
-                    </ul>
-                </article>
+        <!-- HU-02: Sección de habilidades con 6+ elementos li -->
+        <section id="habilidades">
+            <h2>Habilidades</h2>
+            <div class="habilidades-grupo">
+                <h3>Frontend</h3>
+                <ul>
+                    <li>HTML5 semántico</li>
+                    <li>CSS3 y diseño responsivo</li>
+                    <li>JavaScript básico</li>
+                </ul>
+            </div>
+            <div class="habilidades-grupo">
+                <h3>Herramientas</h3>
+                <ul>
+                    <li>Git y control de versiones</li>
+                    <li>GitHub y colaboración</li>
+                    <li>Visual Studio Code</li>
+                </ul>
             </div>
         </section>
 
-        <section id="contacto" class="seccion">
-            <h2>Contacto</h2>
-            <ul class="contacto-lista">
-                <li>Correo: jucagir@gmail.com</li>
-                <li>GitHub: https://github.com/juank338/mi-portafolio</li>
-            </ul>
+        <!-- HU-04: Enlaces a repositorios de GitHub en Proyectos -->
+        <section id="proyectos">
+            <h2>Proyectos</h2>
+            <div class="tarjeta-proyecto">
+                <h3>Proyecto 1</h3>
+                <p>Descripción breve del primer proyecto desarrollado.</p>
+                <!-- Enlace obligatorio al repositorio -->
+                <a href="https://github.com/juank338/mi-portafolio" target="_blank">Ver repositorio en GitHub</a>
+            </div>
+            <div class="tarjeta-proyecto">
+                <h3>Proyecto 2</h3>
+                <p>Descripción breve del segundo proyecto.</p>
+                <a href="https://github.com/juank338/mi-portafolio" target="_blank">Ver repositorio en GitHub</a>
+            </div>
+            <div class="tarjeta-proyecto">
+                <h3>Proyecto 3</h3>
+                <p>Descripción breve del tercer proyecto.</p>
+                <a href="https://github.com/juank338/mi-portafolio" target="_blank">Ver repositorio en GitHub</a>
+            </div>
         </section>
     </main>
+
+    <!-- HU-03: Pie de página con redes -->
+    <footer>
+        <p>&copy; 2026 - Juan Camilo Giraldo Clavijo</p>
+        <div class="redes-sociales">
+            <a href="https://github.com/juank338" target="_blank">GitHub</a>
+            <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+        </div>
+    </footer>
+
 </body>
 </html>
