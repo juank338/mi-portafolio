@@ -53,9 +53,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-- [ ] Dado que realizo scroll hasta el pie de página, puedo visualizar el año actual y mis redes sociales.
-- [ ] Dado que me encuentro sobre el pie de página al hacer clic sobre las redes sociales, seré redireccionado a la página correspondiente por medio de una URL.
-- [ ] Dado que estoy visualizando el pie de página desde mi dispositivo móvil, los iconos de las redes sociales y sus respectivos enlaces se acomodarán de forma legible y cómoda para la apropiada navegación.
+- [ ] Dado el pie de página, cuando realizo scroll hasta el final, entonces puedo visualizar el año actual y mis redes sociales.
+- [ ] Dado el pie de página, cuando hago clic sobre las redes sociales, entonces seré redireccionado a la página correspondiente por medio de una URL.
+- [ ] Dado el pie de página en dispositivos móviles, cuando lo visualizo, entonces los iconos y sus respectivos enlaces se acomodan de forma legible y cómoda.
 
 **Issue:** #4
 
@@ -69,9 +69,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-- [ ] Dado que estoy visualizando la ficha de un proyecto que es de mi interés, cuando reviso su contenido puedo encontrar un enlace que me redirecciona al repositorio en GitHub de dicho proyecto.
-- [ ] Dado que estoy visualizando la ficha del proyecto, al hacer clic en el enlace del repositorio se abrirá una nueva pestaña en el navegador.
-- [ ] Cuando realizo la redirección al repositorio del proyecto, debo estar claramente informado de que se me está redirigiendo a un enlace externo de GitHub.
+- [ ] Dado un proyecto, cuando visualizo su ficha, entonces encuentro un enlace que me redirecciona al repositorio en GitHub.
+- [ ] Dado un proyecto, cuando hago clic en el enlace del repositorio, entonces se abrirá una nueva pestaña en el navegador.
+- [ ] Dado un proyecto, cuando realizo la redirección, entonces estoy informado de que voy a un enlace externo de GitHub.
 
 **Issue:** #6
 
@@ -85,9 +85,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-- [ ] Dado que estoy navegando desde mi celular, debo visualizar todos los elementos del sitio web sin realizar desplazamientos horizontales pese a la diferencia en la relación de aspecto entre las versiones desktop y mobile.
-- [ ] Dado que me encuentro navegando en la versión mobile de la aplicación, al hacer un tap sobre el botón de menú se deben desplegar las secciones de forma vertical.
-- [ ] Dado que me encuentro usando un celular, todas las interacciones entre la página y el usuario deben ser fáciles de realizar únicamente con "swiping" y "tap".
+- [ ] Dado el sitio web en celular, cuando lo navego, entonces visualizo todos los elementos sin desplazamientos horizontales.
+- [ ] Dado el sitio web en versión mobile, cuando hago un tap sobre el botón de menú, entonces se despliegan las secciones de forma vertical.
+- [ ] Dado el uso en celular, cuando interactúo con la página, entonces las acciones son fáciles de realizar con "swiping" y "tap".
 
 **Issue:** #7
 
@@ -102,8 +102,8 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-- [ ] Dado que estoy visualizando cualquier sección del sitio web, debo poder cambiar el modo de visualización de forma dinámica haciendo clic o tap sobre el icono de sol/luna.
-- [ ] Dado que recargo o vuelvo a ingresar a la página, esta tendrá la función de recordar cuál fue la última configuración de modo claro/oscuro que he aplicado.
-- [ ] Dado que mi sistema operativo está por defecto configurado en modo oscuro/claro, el sitio web tiene la capacidad de identificar esto e igualarse con la configuración actual del sistema.
+- [ ] Dado el sitio web, cuando hago clic o tap sobre el icono de sol/luna, entonces cambia el modo de visualización de forma dinámica.
+- [ ] Dado que recargo la página, cuando vuelvo a ingresar, entonces recuerda la última configuración de modo claro/oscuro aplicada.
+- [ ] Dado el sistema operativo, cuando está configurado en modo oscuro/claro, entonces el sitio web se iguala a dicha configuración.
 
 **Issue:** #8
