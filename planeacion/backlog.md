@@ -53,11 +53,11 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-- [ ] Dado relizo scroll hasta el pie de pagina puedo visualizar el año actual y mis redes sociales.
-- [ ] Dado que me encuentro sobre el pie de pagina al realizar click sobre las redes sociales, sere redireccionado a la pagina correspondiente por medio de un URL.
-- [ ] Dado que estoy vizulisando el pie de pagina desde mi dispositivo movil, los iconos de las redes sociales y sus respecticos enlaces se acomadaran de forma legible y comoda para la apropiada navegación.
+- [ ] Dado que realizo scroll hasta el pie de página, puedo visualizar el año actual y mis redes sociales.
+- [ ] Dado que me encuentro sobre el pie de página al hacer clic sobre las redes sociales, seré redireccionado a la página correspondiente por medio de una URL.
+- [ ] Dado que estoy visualizando el pie de página desde mi dispositivo móvil, los iconos de las redes sociales y sus respectivos enlaces se acomodarán de forma legible y cómoda para la apropiada navegación.
 
-**Issue:** 4
+**Issue:** #4
 
 ---
 
@@ -69,12 +69,11 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-- [ ] Dado que estoy visualizando la ficha de un proyecto que es de mi interes cuando reviso su contenido puedo encontrar un link que me redirecciona al repositorio en gitthub de dicho proyecto.
-- [ ] Dado que estoy visualizando la ficha del proyecto al hacer click en link del repositorio de dicho proyecto, se abrira una nueva pesataña en el navegador.
-- [ ] Cuando relizo la reficción al repositorio del proyecto debo estar claramente informado de que se me esta redirigiendo a un enlace externo de github.
+- [ ] Dado que estoy visualizando la ficha de un proyecto que es de mi interés, cuando reviso su contenido puedo encontrar un enlace que me redirecciona al repositorio en GitHub de dicho proyecto.
+- [ ] Dado que estoy visualizando la ficha del proyecto, al hacer clic en el enlace del repositorio se abrirá una nueva pestaña en el navegador.
+- [ ] Cuando realizo la redirección al repositorio del proyecto, debo estar claramente informado de que se me está redirigiendo a un enlace externo de GitHub.
 
-
-**Issue:** 5
+**Issue:** #6
 
 ---
 
@@ -86,25 +85,25 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-- [ ] Dado que estoy navegando desde mi celular debo visualizar todos los elementos del sitio web sin realizar desplazamientos horizontales pese a la enorme diferencia en la relación de aspecto entre las versiones deskpot y mobile.
-- [ ] Dado que me encuentro navegando el versión mobile de la aplicación al hacer un tap sobre el boton de menú, se deben desplegar las secciones de forma vertical.
-- [ ] Dado que me encuentro usando un celular todas interacciones entre la pagina y el usuario deben ser faciles de realizar unicamente con el "swiping" y "tap"
+- [ ] Dado que estoy navegando desde mi celular, debo visualizar todos los elementos del sitio web sin realizar desplazamientos horizontales pese a la diferencia en la relación de aspecto entre las versiones desktop y mobile.
+- [ ] Dado que me encuentro navegando en la versión mobile de la aplicación, al hacer un tap sobre el botón de menú se deben desplegar las secciones de forma vertical.
+- [ ] Dado que me encuentro usando un celular, todas las interacciones entre la página y el usuario deben ser fáciles de realizar únicamente con "swiping" y "tap".
 
-**Issue:** 6
+**Issue:** #7
 
 ---
 
 ## HU-06 · (RETO) Adaptación al modo oscuro / claro
 
-**Historia:** Como visitante que del sitio web, quiero poder seleccionar en un modo claro/oscuro que yo requiera segun mi preferencia para evitar la fatiga visual lo mas posible.
+**Historia:** Como visitante del sitio web, quiero poder seleccionar un modo claro/oscuro según mi preferencia para evitar la fatiga visual lo más posible.
 
 **Etiquetas:** historia, frontend · 
 **Estimación:** M
 
 **Criterios de aceptación:**
 
-- [ ] Dado que estoy visualizando cualquier selección de sitio web debo poder cambiar el modo de visualización de forma dinamica haciendo click o tap sobre el icono de sol/luna.
-- [ ] Dado que recargo o vuelvo a ingresar a la pagina, esta tendra la función de recordar cual fue la ultima configuración de modo claro/oscuro que he aplicado.
-- [ ] Dado que a que mi sistema operativo esta por defecto configurado en modo oscuro/claro, el sitio web tiene la capacidad de identificar esto e igualarse con la configuración actual del sistema operativo.
+- [ ] Dado que estoy visualizando cualquier sección del sitio web, debo poder cambiar el modo de visualización de forma dinámica haciendo clic o tap sobre el icono de sol/luna.
+- [ ] Dado que recargo o vuelvo a ingresar a la página, esta tendrá la función de recordar cuál fue la última configuración de modo claro/oscuro que he aplicado.
+- [ ] Dado que mi sistema operativo está por defecto configurado en modo oscuro/claro, el sitio web tiene la capacidad de identificar esto e igualarse con la configuración actual del sistema.
 
-**Issue:** 7
+**Issue:** #8
