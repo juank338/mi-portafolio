@@ -1,37 +1,25 @@
 ---
+---
 name: Reporte de bug
-about: ineficiencia en la navegabilidad de la pagina
-title: "BUG · "
+about: Reporta un error o fallo inesperado en el funcionamiento del portafolio.
+title: "[BUG]: "
 labels: bug
 assignees: ''
 ---
 
-<!--
-  TODO (Parte A, paso 3): completa esta plantilla.
-  1. En el encabezado de arriba cambia los dos TODO:
-     - about: una frase que explique para qué sirve la plantilla.
-     - labels: la etiqueta que deben llevar los reportes de error.
-  2. Debajo de cada título (##) escribe una instrucción corta
-     que le diga a quien reporta qué debe escribir ahí.
-  3. Borra este comentario cuando termines.
--->
-
 ## Descripción del problema
-
-TODO
+Describe claramente qué está pasando y qué comportamiento inesperado observas en la página.
 
 ## Pasos para reproducir
-
-1. TODO
+1. Ve a la sección o página donde ocurre el fallo.
+2. Realiza la acción específica (ej. hacer clic en un botón, redimensionar la pantalla).
+3. Observa el error.
 
 ## Resultado esperado
-
-TODO
+Explica qué debería haber ocurrido en lugar del error.
 
 ## Resultado actual
-
-TODO
+Explica qué fue lo que realmente pasó en la interfaz o consola.
 
 ## Evidencia (captura o enlace)
-
-TODO
+Adjunta capturas de pantalla, enlaces o registros si aplica.
