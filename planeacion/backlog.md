@@ -25,7 +25,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que estoy en la parte de arriba, cuando hago clic en "Proyectos", entonces la página baja hasta la sección de proyectos.
 - [ ] Dado que hice scroll hasta el final, cuando miro la parte superior de la pantalla, entonces el menú sigue visible.
 
-**Issue:** #
+**Issue:** #2
 
 ---
 
@@ -41,7 +41,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que estoy en la sección "Habilidades", cuando la leo, entonces las habilidades están agrupadas en "Frontend" y "Herramientas".
 - [ ] Dado que estoy en el menú, cuando hago clic en "Habilidades", entonces la página baja hasta esa sección.
 
-**Issue:** #
+**Issue:** #3
 
 ---
 
@@ -53,11 +53,11 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-- [ ] Dado que scrolleo hasta el pie de pagina puedo visualizar el año actual y mis redes sociales.
+- [ ] Dado relizo scroll hasta el pie de pagina puedo visualizar el año actual y mis redes sociales.
 - [ ] Dado que me encuentro sobre el pie de pagina al realizar click sobre las redes sociales, sere redireccionado a la pagina correspondiente por medio de un URL.
 - [ ] Dado que estoy vizulisando el pie de pagina desde mi dispositivo movil, los iconos de las redes sociales y sus respecticos enlaces se acomadaran de forma legible y comoda para la apropiada navegación.
 
-**Issue:** #
+**Issue:** 4
 
 ---
 
@@ -74,7 +74,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Cuando relizo la reficción al repositorio del proyecto debo estar claramente informado de que se me esta redirigiendo a un enlace externo de github.
 
 
-**Issue:** #
+**Issue:** 5
 
 ---
 
@@ -90,7 +90,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que me encuentro navegando el versión mobile de la aplicación al hacer un tap sobre el boton de menú, se deben desplegar las secciones de forma vertical.
 - [ ] Dado que me encuentro usando un celular todas interacciones entre la pagina y el usuario deben ser faciles de realizar unicamente con el "swiping" y "tap"
 
-**Issue:** #
+**Issue:** 6
 
 ---
 
@@ -107,4 +107,4 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que recargo o vuelvo a ingresar a la pagina, esta tendra la función de recordar cual fue la ultima configuración de modo claro/oscuro que he aplicado.
 - [ ] Dado que a que mi sistema operativo esta por defecto configurado en modo oscuro/claro, el sitio web tiene la capacidad de identificar esto e igualarse con la configuración actual del sistema operativo.
 
-**Issue:** #
+**Issue:** 7
